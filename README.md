@@ -2,7 +2,14 @@
 
 Create stunning 360-degree GIFs of your PORSCHΞ 911 NFTs. Experience the beauty of the iconic 911, now in virtual form, from every angle. The script generates both standard and slow-motion GIFs, providing a unique visual representation of the NFT.
 
-![PORSCHΞ Logo](https://i.seadn.io/gcs/files/84d42a71d5c91c47996264dd009e1c40.png?auto=format&dpr=1&w=1920)
+![PORSCHΞ Logo](./assets/pioneers.avif)
+
+<table>
+  <tr>
+    <td><img src="./assets/1930.gif" alt="360-Degree View of PORSCHΞ 911 1930 NFT"></td>
+    <td><img src="./assets/1930_slow.gif" alt="360-Degree Slow View of PORSCHΞ 911 1930 NFT"></td>
+  </tr>
+</table>
 
 ## Table of Contents
 - [About the Project](#about-the-project)
