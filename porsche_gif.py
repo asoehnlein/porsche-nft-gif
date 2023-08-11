@@ -10,7 +10,7 @@ if not os.path.exists('images'):
 images = []
 
 for rotation in range(0, 351, 10):
-    image_url = f"https:--nft-evolution.web3.pdg-apps.io/_next/image?url=https%3A%2F%2Fconfigurator.porsche-digital-nft.mhp-immersive.com/static/0xCcDF1373040D9Ca4B5BE1392d1945C1DaE4a862c/{nftid}/{rotation}.png&w=2048&q=100"
+    image_url = f"https://nft-evolution.web3.pdg-apps.io/_next/image?url=https%3A%2F%2Fconfigurator.porsche-digital-nft.mhp-immersive.com/static/0xCcDF1373040D9Ca4B5BE1392d1945C1DaE4a862c/{nftid}/{rotation}.png&w=2048&q=100"
     response = requests.get(image_url)
 
     if response.status_code == 200:
